@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JET QE Task 1 Test Suite" >
+    <listeners>
+        <listener class-name="com.jet.utils.listeners.TestListener"/>
+    </listeners>
+
+    <test name="Price Range Test">
+        <classes>
+            <class name="com.jet.tests.PriceRangeTest"/>
+        </classes>
+    </test>
+    <test name="Restaurant Category Test">
+        <classes>
+            <class name="com.jet.tests.RestaurantCategory"/>
+        </classes>
+    </test>
+</suite>
