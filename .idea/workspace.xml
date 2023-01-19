@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6adb5e1a-2a8f-42a0-9e6d-ee7fb74e00b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/pages/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/pages/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/tests/PriceRangeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/tests/RestaurantCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/utils/extentreports/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/utils/extentreports/ExtentTestManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/utils/listeners/TestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/utils/logs/JSErrorLogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jet/utils/logs/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+    <list default="true" id="6adb5e1a-2a8f-42a0-9e6d-ee7fb74e00b8" name="Changes" comment="Task 1 Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,8 +179,16 @@
       <workItem from="1673696815371" duration="2277000" />
       <workItem from="1673986940996" duration="6000000" />
       <workItem from="1674053145192" duration="76000" />
-      <workItem from="1674053227793" duration="39987000" />
+      <workItem from="1674053227793" duration="41385000" />
     </task>
+    <task id="LOCAL-00001" summary="Task 1 Commit">
+      <created>1674163635406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674163635406</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,5 +204,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 1 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 1 Commit" />
   </component>
 </project>
